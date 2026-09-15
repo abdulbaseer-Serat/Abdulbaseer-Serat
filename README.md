@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdul Basir</h1>
 
-<!--
-**abdulbaseer-Serat/Abdulbaseer-Serat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+IT Professional | Cloud Enthusiast | Cybersecurity Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+https://linkedin.com/in/yourprofile
+LinkedIn
+</a> •
+youremail@example.com
+Email
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Working in IT Support
+- 🌱 Learning Azure & Cybersecurity
+- 💻 Interested in Cloud Computing
+- 📍 Based in Afghanistan
+
+---
+
+## 🛠 Skills
+
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
+---
+
+## 📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
