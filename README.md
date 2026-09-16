@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    ![Static Badge](https://img.shields.io/badge/GITHUB-abdulbaseer--Serat-red)
+    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
   </a>
   <a href="mailto:info.abdulbasir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff" alt="Email Abdul Basir" />
