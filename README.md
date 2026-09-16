@@ -5,14 +5,16 @@
 ### IT Support Specialist | Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=fffff0" alt="GitHub profile" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener noreferrer">
+    https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white
   </a>
+
   <a href="mailto:info.abdulbasir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff" alt="Email Abdul Basir" />
+    https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn profile" />
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logologoColor=white
   </a>
 </p>
 
