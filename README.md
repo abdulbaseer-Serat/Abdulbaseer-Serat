@@ -2,11 +2,11 @@
 
 # Abdul Basir Serat
 
-### IT Support Specialist · Cisco Network . Microsoft 365 · Azure · Cybersecurity
+### IT Support Specialist | Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_ABDULBASEER SERAT">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=fffff0" alt="GitHub profile" />
   </a>
   <a href="mailto:info.abdulbasir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff" alt="Email Abdul Basir" />
