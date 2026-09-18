@@ -33,7 +33,7 @@
 ```powershell
 PS C:\Users\AbdulBasir> Get-Profile
 
-Name       : Abdul Basir
+Name       : Abdul Basir Serat 
 Role       : IT Support Specialist
 Company    : SITCO
 Location   : Afghanistan
