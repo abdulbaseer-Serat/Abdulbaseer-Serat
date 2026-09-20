@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdul Basir Serat
+# Abdul Basir_Serat
 
 ### IT Support Specialist | Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity
 
@@ -35,7 +35,7 @@ PS C:\Users\AbdulBasir> Get-Profile
 
 Name       : Abdul Basir Serat 
 Role       : IT Support Specialist
-Company    : SITCO
+Company    : National and International organization 
 Location   : Afghanistan
 Focus      : Microsoft 365, Azure, Cybersecurity, Networking
 Mindset    : Secure systems. Clear communication. Continuous learning.
