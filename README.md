@@ -2,7 +2,7 @@
 
 # Abdul Basir Serat
 
-### IT Support Specialist | Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity
+### IT Support Specialist | Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity.
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
