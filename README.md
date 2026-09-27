@@ -171,7 +171,8 @@ Structured notes, defensive exercises, security checklists, and practical labs d
 
 ```text
 COMPLETED
-[ ] Add completed certification or credential
+[1] Cisco Certified Network Associate.
+[2] CompTIA Security+.
 
 IN PROGRESS
 [ ] AZ-900  Microsoft Azure Fundamentals
