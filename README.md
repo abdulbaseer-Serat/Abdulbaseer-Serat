@@ -173,6 +173,8 @@ Structured notes, defensive exercises, security checklists, and practical labs d
 COMPLETED
 [1] Cisco Certified Network Associate.
 [2] CompTIA Security+.
+[3] Cisco Certified Network Professional Enterprise Core - CCNP ENCOR
+[4] Implementing Cisco Enterprise Advanced Routing and Services - CCNP ENARSI
 
 IN PROGRESS
 [ ] AZ-900  Microsoft Azure Fundamentals
