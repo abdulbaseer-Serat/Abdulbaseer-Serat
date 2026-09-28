@@ -21,9 +21,9 @@
 </a>
 
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" alt="Profile views" />
-
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=abdulbaseer-Serat&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" alt="Profile views" />
+</p>
 </div>
 
 ---
