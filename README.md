@@ -91,12 +91,6 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 
 <div align="center">
 
-<a href="https://github.com/abdulbaseer-Serat">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulbaseer-Serat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&include_all_commits=true" alt="abdulbaseer-Serat's GitHub statistics" />
-</a>
-<a href="https://github.com/abdulbaseer-Serat">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbaseer-Serat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-</a>
 
 <br />
 
