@@ -92,19 +92,19 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&include_all_commits=true" alt="Abdul Basir's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&include_all_commits=true" alt="abdulbaseer-Serat's GitHub statistics" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+<a href="https://github.com/abdulbaseer-Serat">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbaseer-Serat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
 </a>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=0078D4&currStreakLabel=00BFFF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=0078D4&currStreakLabel=00BFFF" alt="GitHub contribution streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=0078D4&point=00BFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbaseer-Serat&bg_color=0D1117&color=C9D1D9&line=0078D4&point=00BFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 </div>
 
