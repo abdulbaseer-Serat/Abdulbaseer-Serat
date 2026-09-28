@@ -5,7 +5,7 @@
 ### IT Support Specialist | Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity.
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/abdulbaseer-Serat">
     <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
   </a>
   <a href="mailto:info.abdulbasir@gmail.com">
@@ -22,7 +22,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=abdulbaseer-Serat&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" alt="Profile views" />
 
 </div>
 
