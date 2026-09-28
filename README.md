@@ -22,7 +22,9 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=abdulbaseer-Serat&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" alt="Profile views" />
+<p align="left">
+  <img src="marev.com/ghpvc/?username=abdulbaseer-Serat&label=Profile%20Views&color=181717&style=for-the-badge
+</p>
 
 </div>
 
