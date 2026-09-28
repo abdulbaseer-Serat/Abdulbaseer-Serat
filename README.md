@@ -91,8 +91,8 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&include_all_commits=true" alt="abdulbaseer-Serat's GitHub statistics" />
+<a href="https://github.com/abdulbaseer-Serat">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulbaseer-Serat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&include_all_commits=true" alt="abdulbaseer-Serat's GitHub statistics" />
 </a>
 <a href="https://github.com/abdulbaseer-Serat">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbaseer-Serat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
@@ -122,7 +122,7 @@ A practical collection of PowerShell scripts for user administration, reporting,
 
 **Focus:** PowerShell · Microsoft Graph · Microsoft 365
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/microsoft-365-automation-scripts">View project</a>
+<a href="https://github.com/abdulbaseer-Serat/microsoft-365-automation-scripts">View project</a>
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ A documented learning environment for exploring Azure identity, resource managem
 
 **Focus:** Azure · Entra ID · Cloud Administration
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/azure-administration-lab">View project</a>
+<a href="https://github.com/abdulbaseer-Serat/azure-administration-lab">View project</a>
 
 </td>
 </tr>
@@ -146,7 +146,7 @@ A lightweight toolkit concept for checking availability, collecting network heal
 
 **Focus:** Networking · Monitoring · Automation
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/network-monitoring-toolkit">View project</a>
+<a href="https://github.com/abdulbaseer-Serat/network-monitoring-toolkit">View project</a>
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +157,7 @@ Structured notes, defensive exercises, security checklists, and practical labs d
 
 **Focus:** Security Fundamentals · Blue Team · Documentation
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/cybersecurity-learning-portfolio">View project</a>
+<a href="https://github.com/abdulbaseer-Serat/cybersecurity-learning-portfolio">View project</a>
 
 </td>
 </tr>
