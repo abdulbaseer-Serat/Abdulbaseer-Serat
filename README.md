@@ -109,8 +109,7 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 <br />
 
 <img
-  src="https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=0078D4&currStreakLabel=00BFFF"
-  alt="GitHub contribution streak"
+  https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=github-dark-blue&hide_border=true&background=0D1117&cache_bust=1
 />
 
 <br />
