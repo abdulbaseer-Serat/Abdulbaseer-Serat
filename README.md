@@ -90,16 +90,17 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernamecons=true&theme=tokyonight&hide_border=true
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbaseer-Serat&layout=compact&der=true
+  <img height="180em" src="https://github-readme-stats.bdulbaseer-Serat&show_icons=true&theme=github_dark&hide_border=true
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/apilbaseer-Serat&layout=compact&theme=github_dark&hide_border=true
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demser=abdulbaseer-Serat&theme=tokyonight&hide_border=true
+  <img src="https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=github-dark-blueer=true
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?bdulbaseer-Serat&theme=tokyo-night&hide_border=true
+  https://github-readme-activity-graph.vercel.app/graph?username=abdulbaseer-Serat&theme=github-dark
 </p>
 
 ---
