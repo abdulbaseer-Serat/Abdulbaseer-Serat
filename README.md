@@ -89,25 +89,18 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <a href="https://github.com/abdulbaseer-Serat">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulbaseer-Serat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&cache_seconds=21600" alt="GitHub Statistics" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-baseer-serat-65b8201ab/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abdulbaseer-Serat &theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abdulbaseer-Serat &theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulbaseer-Serat &theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</a> <a href="https://github.com/abdulbaseer-Serat">
+---
+[![](https://komarev.com/ghpvc/?username=abdulbaseer-Serat &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbaseer-Serat&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&cache_seconds=21600" alt="Most Used Languages" />
-
-</a>
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=abdulbaseer-Serat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=0078D4&currStreakLabel=00BFFF" alt="GitHub Contribution Streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbaseer-Serat&bg_color=0D1117&color=C9D1D9&line=0078D4&point=00BFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## Featured Projects
