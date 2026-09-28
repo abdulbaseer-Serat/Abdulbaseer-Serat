@@ -202,13 +202,13 @@ FUTURE TARGETS
 <div align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdul_Basir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Abdul_Basir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[Connect on LinkedIn](https://www.linkedin.com/in/abdul-baseer-serat-65b8201ab/)" />
 </a>
 <a href="mailto:info.abdulbasir@gmail.com">
   <img src="https://img.shields.io/badge/Email-info.abdulbasir%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdul Basir" />
 </a>
 <a href="https://github.com/abdulbaseer-Serat">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-161B22?style=for-the-badge&logo=github&logoColor=white" alt="abdulbaseer-Serat" />
+  <img src="https://img.shields.io/badge/GitHub-abdulbaseer-Serat-161B22?style=for-the-badge&logo=github&logoColor=white" alt="abdulbaseer-Serat" />
 </a>
 
 </div>
