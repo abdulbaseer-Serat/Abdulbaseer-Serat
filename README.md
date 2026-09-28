@@ -89,19 +89,24 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.bdulbaseer-Serat&show_icons=true&theme=github_dark&hide_border=true
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/apilbaseer-Serat&layout=compact&theme=github_dark&hide_border=true
-</p>
+<a href="https://github.com/abdulbaseer-Serat">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulbaseer-Serat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078D4&text_color=C9D1D9&ring_color=00BFFF&include_all_commits=true" alt="abdulbaseer-Serat's GitHub statistics" />
+</a>
+<a href="https://github.com/abdulbaseer-Serat">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbaseer-Serat&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=github-dark-blueer=true
-</p>
+<br />
 
-<p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=abdulbaseer-Serat&theme=github-dark
-</p>
+<img src="https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=0078D4&currStreakLabel=00BFFF" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbaseer-Serat&bg_color=0D1117&color=C9D1D9&line=0078D4&point=00BFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+</div>
 
 ---
 
