@@ -101,7 +101,8 @@ My professional direction is focused on Microsoft 365 administration, Azure clou
 
 <a href="https://github.com/abdulbaseer-Serat">
   <img
-    [![GitHub Streak](https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=transparent)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdulbaseer-Serat&theme=transparent" alt="GitHub Streak" />
+</a>
   />
 </a>
 
