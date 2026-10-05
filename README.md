@@ -45,8 +45,7 @@ Mindset    : Secure systems. Clear communication. Continuous learning.
 
 IT Support Specialist with 8+ years of hands-on experience across technical support, systems administration, network operations, and technology coordination. I help teams work securely and efficiently by troubleshooting complex issues, managing Microsoft environments, improving operational processes, and translating technical problems into practical solutions.
 
-My professional direction is focused on Microsoft 365 administration, Azure cloud operations, cybersecurity, Windows Server, networking, and PowerShell automation. I am especially interested in building dependable infrastructure, strengthening security awareness, and automating repetitive work so people can focus on higher-value outcomes.
-
+My professional direction is focused on Microsoft 365 administration, Azure cloud operations, cybersecurity, Windows Server, networking, and PowerShell automation. I am especially interested in building dependable infrastructure, strengthening security awareness, and automating repetitive work so people can focus on higher-value outcomes
 ---
 
 ## Technology Stack
